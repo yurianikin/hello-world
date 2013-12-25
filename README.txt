@@ -1,1 +1,1 @@
-װאיכû Java Script
+Java Script
